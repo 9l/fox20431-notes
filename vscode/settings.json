@@ -1,0 +1,16 @@
+{
+    "files.autoGuessEncoding": true,
+    "C_Cpp.clang_format_path": "/usr/bin/clang-format",
+    "code-runner.runInTerminal": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "workbench.activityBar.visible": false,
+    "editor.renderControlCharacters": false,
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 2481 3508" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.70073,0,0,0.890511,419.65,-97.6861)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(0.70073,0,0,0.890511,444.65,2283.31)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(0.70073,0,0,0.890511,428.65,1309.31)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(0.70073,0,0,0.890511,419.65,800.314)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(0.70073,0,0,0.890511,430.65,1785.31)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(0.70073,0,0,0.890511,420.65,339.314)">
+        <rect x="617" y="423" width="822" height="274" style="fill:rgb(235,235,235);stroke:black;stroke-width:5.2px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,66,83)">
+        <g transform="matrix(1,-0,-0,1,-66,-83)">
+            <path d="M1156.5,690L1144,715L1131.5,690C1137.75,696.25 1150.25,696.25 1156.5,690Z"/>
+            <path d="M1144,549L1144,695" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,66,1006)">
+        <g transform="matrix(1,-0,-0,1,-66,-1006)">
+            <path d="M1156.5,1613L1144,1638L1131.5,1613C1137.75,1619.25 1150.25,1619.25 1156.5,1613Z"/>
+            <path d="M1144,1472L1144,1618" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,79,1986)">
+        <g transform="matrix(1,-0,-0,1,-79,-1986)">
+            <path d="M1169.5,2593L1157,2618L1144.5,2593C1150.75,2599.25 1163.25,2599.25 1169.5,2593Z"/>
+            <path d="M1157,2452L1157,2598" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,80,513)">
+        <g transform="matrix(1,-0,-0,1,-80,-513)">
+            <path d="M1170.5,1120L1158,1145L1145.5,1120C1151.75,1126.25 1164.25,1126.25 1170.5,1120Z"/>
+            <path d="M1158,979L1158,1125" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,70,1497)">
+        <g transform="matrix(1,-0,-0,1,-70,-1497)">
+            <path d="M1160.5,2104L1148,2129L1135.5,2104C1141.75,2110.25 1154.25,2110.25 1160.5,2104Z"/>
+            <path d="M1148,1963L1148,2109" style="fill:none;stroke:black;stroke-width:4.17px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-72.3165,97.5367)">
+        <text x="1308.48px" y="1971.05px" style="font-family:'STHeitiSC-Medium', 'Heiti SC';font-size:83.333px;">查找路由规则</text>
+    </g>
+    <g transform="matrix(2.23936,0,0,2.23936,-1306.38,-349.038)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">index.html</text>
+    </g>
+    <g transform="matrix(2.23936,0,0,2.23936,-1206.33,93.9615)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">main.ts</text>
+    </g>
+    <g transform="matrix(1.78295,0,0,1.78295,-846.307,705.766)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">App.vue#app</text>
+    </g>
+    <g transform="matrix(2.23936,0,0,2.23936,-1166.22,1060.16)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">router</text>
+    </g>
+    <g transform="matrix(2.23936,0,0,2.23936,-1282.38,1548.96)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">VUE views</text>
+    </g>
+    <g transform="matrix(1.47714,0,0,1.47714,-540.879,2299.64)">
+        <text x="973.914px" y="352.863px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:50px;">VUE component</text>
+    </g>
+    <g transform="matrix(1,0,0,1,37.14,83.0255)">
+        <text x="1180.03px" y="574.974px" style="font-family:'STHeitiSC-Medium', 'Heiti SC';font-size:83.333px;">引入</text>
+    </g>
+    <g transform="matrix(1,0,0,1,26.5227,29.3178)">
+        <text x="1199.64px" y="1061.93px" style="font-family:'STHeitiSC-Medium', 'Heiti SC';font-size:83.333px;">委任挂载点</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0.295618,32.4209)">
+        <text x="1236.45px" y="1533.16px" style="font-family:'STHeitiSC-Medium', 'Heiti SC';font-size:83.333px;">使用路由分配路线</text>
+    </g>
+    <g transform="matrix(1,0,0,1,-80.7492,85.2038)">
+        <text x="1329.92px" y="2493.55px" style="font-family:'STHeitiSC-Medium', 'Heiti SC';font-size:83.333px;">引用组件</text>
+    </g>
+</svg>
